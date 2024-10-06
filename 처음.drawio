@@ -1,29 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2024-10-06T13:01:42.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" etag="npCf9xiqIzvTLo8sN2mH" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="페이지-1" id="4QaJQtLERetU7g9xK6nh">
-    <mxGraphModel dx="1009" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6H5fQclWQZdbzLlp5CsL-1" target="6H5fQclWQZdbzLlp5CsL-2">
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6H5fQclWQZdbzLlp5CsL-1" target="6H5fQclWQZdbzLlp5CsL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-1" value="방탈출 실험방" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-1" value="방탈출 실험방" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="197" y="151" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6H5fQclWQZdbzLlp5CsL-2" target="6H5fQclWQZdbzLlp5CsL-4">
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6H5fQclWQZdbzLlp5CsL-2" target="6H5fQclWQZdbzLlp5CsL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-2" value="이세계 마을 앞 언덕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-2" value="이세계 마을 앞 언덕" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="397" y="151" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6H5fQclWQZdbzLlp5CsL-4" target="6H5fQclWQZdbzLlp5CsL-6">
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6H5fQclWQZdbzLlp5CsL-4" target="6H5fQclWQZdbzLlp5CsL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-4" value="이세계 수도도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-4" value="이세계 수도도시" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="597" y="151" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6H5fQclWQZdbzLlp5CsL-6" value="첫 내각 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6H5fQclWQZdbzLlp5CsL-6" target="O7Ejrn__m2HigpVfQsFt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6H5fQclWQZdbzLlp5CsL-6" value="내각 첫 도시&lt;div&gt;(여기까지가 대표작)&lt;/div&gt;&lt;div&gt;여기까지 전장이 밀림&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="597" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7Ejrn__m2HigpVfQsFt-1" target="O7Ejrn__m2HigpVfQsFt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-1" value="내각 두번째 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7Ejrn__m2HigpVfQsFt-3" target="O7Ejrn__m2HigpVfQsFt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-3" value="외각 첫 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7Ejrn__m2HigpVfQsFt-5" target="O7Ejrn__m2HigpVfQsFt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-5" value="외각 마지막 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7Ejrn__m2HigpVfQsFt-7" target="O7Ejrn__m2HigpVfQsFt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-7" value="패전의 들판" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7Ejrn__m2HigpVfQsFt-9" target="O7Ejrn__m2HigpVfQsFt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-9" value="마왕령 외각 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7Ejrn__m2HigpVfQsFt-11" target="O7Ejrn__m2HigpVfQsFt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-11" value="마왕령 내각 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Ejrn__m2HigpVfQsFt-13" value="마왕령 수도 도시" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="571" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
